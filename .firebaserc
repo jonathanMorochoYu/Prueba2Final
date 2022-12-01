@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "persona-e73bd": {
+      "hosting": {
+        "AngularPersona": [
+          "persona-e73bd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "persona-e73bd"
+  }
+}
